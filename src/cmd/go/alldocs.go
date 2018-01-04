@@ -1000,7 +1000,7 @@
 // unless that directory holds a Go distribution.
 // Run "go env GOPATH" to see the current GOPATH.
 //
-// See https://golang.org/wiki/SettingGOPATH to set a custom GOPATH.
+// See https://golang.org/wiki/Setting-GOPATH to set a custom GOPATH.
 //
 // Each directory listed in GOPATH must have a prescribed structure:
 //
